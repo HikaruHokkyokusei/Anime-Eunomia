@@ -1,0 +1,5 @@
+# IDE
+/.idea
+
+# Output
+/build/bin
